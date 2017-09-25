@@ -1,6 +1,12 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- degree: Ph.D. , Computer Science
+  uni: Georgia Institute of Technology
+  year: 2017 &mdash; Present
+  #awards: Quickest to fall asleep
+  summary: "Advisor : Prof. Taesoo Kim"
+
+- degree: B.S. , Computer Science & Engineering
+  uni: Pohang University of Science and Technology (POSTECH)
+  year: 2013 &mdash; 2017
+  #awards: Dean's List (Sep. 2013 - Feb. 2017)
+  summary: I graduated first in my class at POSTECH in 2017. 😆

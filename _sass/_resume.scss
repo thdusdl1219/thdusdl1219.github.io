@@ -39,6 +39,12 @@
     margin: 1rem 0 2rem;
   }
 
+  .header-contact-email {
+    @include sans;
+    text-align: center;
+    margin: -30px 3rem 0px
+  }
+
   .header-contact-info {
     @include sans;
     text-align: center;

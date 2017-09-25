@@ -12,11 +12,11 @@ sass:
 resume_avatar:                  "true"
 resume_name:                    "Soyeon Park"
 resume_title:                   "About me"
-resume_contact_email:           "spark720@gatech.edu"
+resume_contact_email:           "📧 spark720@gatech.edu"
 resume_contact_telephone:       ""
 resume_contact_address:         ""
 resume_header_contact_info: ""
-resume_header_intro: "<p>I'm first year Ph.D. student at Georgia Tech, advised by <a href=\"https://taesoo.gtisc.gatech.edu\">Prof. Taesoo Kim</a>.<br>I'm interested in Systems and Security :P </p>"
+resume_header_intro: "<p>I'm first year Ph.D. student at Georgia Tech, advised by <a href=\"https://taesoo.gtisc.gatech.edu\">Prof. Taesoo Kim</a>.<br>I'm interested in Systems and Security.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,

@@ -45,6 +45,7 @@ resume_social_links:
   #resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
   #resume_website_url:           "http://joelglovier.com"
+  resume_cv_url:           "http://gts3.org/~soyeon/assets/cv.pdf"
 resume_print_social_links:      true
 
 # Design settings

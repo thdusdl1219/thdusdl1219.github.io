@@ -1,5 +1,7 @@
 # Skills
 # Donut design
+- skill: "Fuzzing JavaScript Engines with Aspect-preserving Mutation"
+  description: "<b>Soyeon Park</b>, Wen Xu, Insu Yun, Daehee Jang, and Taesoo Kim, In Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland 2020)"
 - skill: "libmpk: Software Abstraction for Intel Memory Protection Keys"
   description: "<b>Soyeon Park</b>, Sangho Lee, Wen Xu, Hyungon Moon, and Taesoo Kim, In Proceedings of the 2019 USENIX Annual Technical Conference (ATC 2019)"
 - skill: "VeriCount: Verifiable Resource Accounting Using Hardware and Software Isolation"

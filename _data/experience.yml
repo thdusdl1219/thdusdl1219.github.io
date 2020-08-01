@@ -1,12 +1,12 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: Security Laboratory
+- company: 
   position: National University of Singapore, Research Intership
   duration: Jan, 2017 &mdash; Jun, 2017
   summary: Implemented verifying module for resources in cloud service using LLVM pass and Intel SGX. 
 
 # Windmill Crank Operator
-- company: Compiler Research Laboratory
+- company: 
   position: POSTECH, Undergraduate Research Assistant
   duration:  Feb, 2016 &mdash; July, 2016
   summary: Implemented unified virtual memory space for unified IoT development platform using C++ and LLVM pass.

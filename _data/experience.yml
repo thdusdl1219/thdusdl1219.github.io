@@ -1,15 +1,20 @@
 # Jobs
 # Springfield Nuclear Power Plant
-- company: 
-  position: National University of Singapore, Research Intership
+- company: Microsoft 
+  position: Security Engineering Intern
+  duration: May, 2020 &mdash; July, 2020
+  summary: Security assessment over network file system including developing fuzzer built on full system emulator. 
+
+- company: Security Laboratory in National University of Singapore
+  position: Research Intern
   duration: Jan, 2017 &mdash; Jun, 2017
-  summary: Implemented verifying module for resources in cloud service using LLVM pass and Intel SGX. 
+  summary: Developing a verification module for resources in cloud service using LLVM pass and Intel SGX. 
 
 # Windmill Crank Operator
-- company: 
-  position: POSTECH, Undergraduate Research Assistant
+- company: Compiler Laboratory in POSTECH
+  position: Undergraduate Research Assistant
   duration:  Feb, 2016 &mdash; July, 2016
-  summary: Implemented unified virtual memory space for unified IoT development platform using C++ and LLVM pass.
+  summary: Implementing unified virtual memory for unified IoT development platform using C++ and LLVM pass.
 
 
 # Front Desk Attendant

@@ -1,5 +1,8 @@
 # Skills
 # Donut design
+
+- skill: "Revisiting Function Identiﬁcation with Machine Learning"
+  description: "Hyungjoon Koo, <b>Soyeon Park</b>, and Taesoo Kim, In Proceedings of the 2020 IJCAI Workshop on Machine Learning for Program Analysis (MLPA 2020)"
 - skill: "Fuzzing JavaScript Engines with Aspect-preserving Mutation"
   description: "<b>Soyeon Park</b>, Wen Xu, Insu Yun, Daehee Jang, and Taesoo Kim, In Proceedings of the 41st IEEE Symposium on Security and Privacy (Oakland 2020)"
 - skill: "libmpk: Software Abstraction for Intel Memory Protection Keys"

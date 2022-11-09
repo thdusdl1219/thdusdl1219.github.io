@@ -1,0 +1,145 @@
+@import 'material-icons/iconfont/material-icons.css';
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Open Sans', 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: normal
+}
+p, div {
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+@viewport {
+  width: device-width ;
+  zoom: 1.0 ;
+}
+
+@media only screen and (max-width: 480px)
+{
+	.top-name {
+		text-align: center
+	}
+}
+
+
+a {
+	color: #007bcd;
+	font-weight: 400
+}
+
+a:hover, a:focus {
+    color: #004d80;
+    text-decoration: none;
+}
+
+.navbar {
+	background-color: #2f2f2f;
+	padding: 10px;
+}
+
+.navbar-brand {
+	font-size: xx-large;
+}
+
+.navbar-right {
+	font-size: large;
+}
+
+.about-header {
+	font-size: smaller;
+}
+
+.jumbotron {
+	padding-right: 30px;
+}
+
+.jumbotron h1 {
+	font-size: xx-large;
+}
+
+.jumbotron p {
+	font-size: medium;
+}
+
+.align-right {
+	white-space: nowrap;
+	float: right;
+}
+
+.subsection {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.subsection ul ul li {
+	font-size: small;
+}
+ul li {
+	padding-bottom: 2px;
+}
+
+.list-education li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.list-publications {
+	font-size: normal;
+}
+
+.list-publications li {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.list-publications h5 {
+	margin-right: 100px;
+    font-weight: normal;
+}
+
+.list-publications-title {
+	font-size: normal;
+	font-weight: bold;
+}
+
+.img-padded {
+    margin-top: 70px;
+}
+
+.container {
+    max-width: 800px;
+}
+
+
+.expandableCollapsibleDiv img {
+    cursor: pointer;
+    margin-right: 10px;
+    margin-top: 5px;
+    padding-left: 10px;
+    float: left;
+}
+  
+.expandableCollapsibleDiv ul {
+    border-bottom: 1px solid #000;
+    clear: both;
+    list-style: outside none none;
+    margin: 0;
+    padding-bottom: 10px;
+    display: none;
+}
+
+.card-body {
+	color: #5f6264;
+}
+
+
+
+.material-symbols-outlined {
+  vertical-align:middle;
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 300,
+  'GRAD' 0,
+  'opsz' 48
+}
